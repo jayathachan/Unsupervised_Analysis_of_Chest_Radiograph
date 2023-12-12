@@ -26,7 +26,7 @@ Main workflow to reproduce analysis:
 5. Cluster Analysis for new image
 
 ## Result
-<img width="799" alt="Screenshot 2023-12-11 at 11 49 26 PM" src="https://github.com/jayathachan/Unsupervised_Analysis_of_Chest_Radiograph/assets/130102026/02167d5c-3673-4c7d-9ade-effaabc5d78f">
+<img width="550" alt="Screenshot 2023-12-11 at 11 49 26 PM" src="https://github.com/jayathachan/Unsupervised_Analysis_of_Chest_Radiograph/assets/130102026/02167d5c-3673-4c7d-9ade-effaabc5d78f">
 
 
 ## Dependencies
